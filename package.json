@@ -1,0 +1,10 @@
+{
+  "name": "money-tree-scraping-test",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "p-kino",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
